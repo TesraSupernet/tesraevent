@@ -1,4 +1,4 @@
-module github.com/TesraSupernet/tesarevent
+module github.com/TesraSupernet/tesraevent
 
 go 1.13
 
